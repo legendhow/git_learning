@@ -1,2 +1,2 @@
-updte coount
-a
+update count = 1
+pudate count = 2
